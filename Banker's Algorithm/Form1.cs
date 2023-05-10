@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace Banker_s_Algorithm
 {
-    public partial class Form1 : Form
+    public partial class Bankers : Form
     {
-        public Form1()
+        public Bankers()
         {
             InitializeComponent();
         }
+
+      
     }
 }

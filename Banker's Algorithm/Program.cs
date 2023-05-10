@@ -16,7 +16,7 @@ namespace Banker_s_Algorithm
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Bankers());
         }
     }
 }
