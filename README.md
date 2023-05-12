@@ -20,6 +20,7 @@ To install Bankers, follow these steps:
 2. Open the project in Visual Studio.
 3. Build the project from within Visual Studio.
 4. Run the application to start using Bankers.
+
 **OR** 
 1. Head to [Release Folder](Release)
 2. Download the folder
