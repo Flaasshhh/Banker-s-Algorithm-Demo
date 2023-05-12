@@ -641,7 +641,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DimGray;
             this.BackgroundImage = global::Banker_s_Algorithm.Properties.Resources.ezgif_1_bf9f22c632;
-            this.ClientSize = new System.Drawing.Size(960, 895);
+            this.ClientSize = new System.Drawing.Size(932, 903);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.CheckButton);
             this.Controls.Add(this.label12);
@@ -697,6 +697,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Bankers";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.TotalA)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.TotalB)).EndInit();
