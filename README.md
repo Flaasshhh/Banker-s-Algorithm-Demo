@@ -23,7 +23,7 @@ To install Bankers, follow these steps:
 **OR** 
 1. Head to [Release Folder](Release)
 2. Download the folder
-3. Run the [Built/Compiled EXE File](Release/Banker's Algorithm.exe)
+3. Run "Banker's Algorithm.exe"
 
 ## Usage
 
