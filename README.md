@@ -24,7 +24,7 @@ To install Bankers, follow these steps:
 **OR** 
 1. Head to [Release Folder](Release)
 2. Download the folder
-3. Run "Banker's Algorithm.exe"
+3. Run the compiled EXE "Banker's Algorithm.exe"
 
 ## Usage
 
@@ -35,11 +35,3 @@ To use Bankers, follow these steps:
 ## Support
 
 If you encounter any issues while using this project, please contact me at the email on my profile.
-
-## Contributing
-
-We welcome contributions from the community. If you would like to contribute to the development of Bankers, please fork the repository and submit a pull request.
-
-## License
-
-This project is not yet licensed.
